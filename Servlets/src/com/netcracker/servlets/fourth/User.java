@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class User {
     private final String username = "testservletemail@gmail.com";
-    private final String password = "password";
+    private final String password = "BjKgZS6FTW";
 
     private final String host = "smtp.gmail.com";
     private final String port = "587";
